@@ -1,14 +1,17 @@
 # Fuel-Constrained-UC
 
 ############################### COPYRIGHT ################################
+
 All rights reserved. The authorized use of this data is limited to informational and educational purposes only, and NOT for operational or commercial purposes.
 
 
 ############################### DESCRIPTION ###############################
+
 This is the data set used in the computational experiments of the paper: A Polyhedral Study on Fuel-Constrained Unit Commitment, which is co-authored by Kai Pan, Ming Zhao, Chung-Lun Li, and Feng Qiu.
 
 
 ############################# LIST OF FOLDERS #############################
+
 Generator_Data is a folder with the data of generators used for Tables 2 - 3 of the paper.
 
 
@@ -19,6 +22,7 @@ Data_for_Table_4 is a folder with nominal data and python code to generate rando
 
 
 ############################ DETAILS OF FOLDERS ############################
+
 Generator_Data:
 
 The files G1.dat, G2.dat, and G3.dat contain the physical data of three natural gas-fired generators, which are mentioned in Table 1 of the paper.
